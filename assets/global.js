@@ -1360,3 +1360,16 @@ class AccountIcon extends HTMLElement {
 }
 
 customElements.define('account-icon', AccountIcon);
+
+
+
+document.addEventListener("DOMContentLoaded", function () {
+  // Usar una API de geolocalización
+  fetch('https://ipinfo.io/json?token=a9cbacc51fde69') // Obtén un token gratuito de ipinfo.io
+    .then(response => response.json())
+    .then(data => {
+      console.log(data);
+    })
+    .catch(error => console.error('Error al obtener la ubicación:', error));
+});
+
