@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "logo_width": 90,
@@ -134,21 +134,22 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "4981902369724952902": {
-        "type": "shopify:\/\/apps\/vo-product-options\/blocks\/embed-block\/430cbd7b-bd20-4c16-ba41-db6f4c645164",
+        "type": "shopify://apps/vo-product-options/blocks/embed-block/430cbd7b-bd20-4c16-ba41-db6f4c645164",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "7155349627714823297": {
-        "type": "shopify:\/\/apps\/file-uploads-by-uploadkit\/blocks\/app-embed-block\/d7b05810-6170-4288-808a-df45248c4d28",
+        "type": "shopify://apps/file-uploads-by-uploadkit/blocks/app-embed-block/d7b05810-6170-4288-808a-df45248c4d28",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
+      },
+      "3146350951499932190": {
+        "type": "shopify://apps/simesy-faq-tabs-accordion/blocks/simesy-faq-script/467857aa-e495-4e93-917b-0cc9234489fd",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
