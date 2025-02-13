@@ -56,6 +56,16 @@
     "173944005533396826": {
       "type": "apps",
       "blocks": {
+        "helplab_faq_page_product_faqs_app_block_jnqw87": {
+          "type": "shopify://apps/helplab-faq-page-product-faqs/blocks/app-block/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_text_type": "h2",
+            "heading_alignment": "left",
+            "faq_embed_code": "<div class=\"ef-faqs-plus-app-cats-content\" data-category=\"Pricing\" id=\"ef-faqs-60eb616d16a2629f4bdfd8b0\"></div>",
+            "faqs_width": 100
+          }
+        },
         "helplab_faq_page_product_faqs_app_block_fjPLFY": {
           "type": "shopify://apps/helplab-faq-page-product-faqs/blocks/app-block/89f30064-d200-4f10-b92c-a16fc4c5815c",
           "settings": {
@@ -68,6 +78,7 @@
         }
       },
       "block_order": [
+        "helplab_faq_page_product_faqs_app_block_jnqw87",
         "helplab_faq_page_product_faqs_app_block_fjPLFY"
       ],
       "settings": {
